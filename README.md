@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Okoliesomto
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on different java  and python projects
+- 👀 I’m interested in software  and web development 
+- 💞️ I’m looking to collaborate on different java ,web  and python projects
 - 📫 How to reach me okoliesomto98@gmail.com
 
 <!---
